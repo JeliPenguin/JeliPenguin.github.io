@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Model Match\: NHS and Data Scientist Collaboration Tool
-description: a web-based clinical data and classification models interchanging platform for data scientists and NHS clinicians in reducing amount of time wasted on data/model collection 
+title: Model Match
+description: a web-based clinical data and classification models interchanging platform for data scientists and NHS clinicians in reducing amount of time wasted on data and model collection 
 img: assets/img/7.jpg
 redirect: http://students.cs.ucl.ac.uk/2021/group15/
-importance: 3
+importance: 1
 category: work
 ---
 
