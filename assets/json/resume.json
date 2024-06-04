@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jeffrey Li",
+    "label": "Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "jeffbenchu@gmail.com",
+    "phone": "(44) 7477-906003",
+    "url": "https://jelipenguin.github.io/",
+    "summary": "A Robotics Student",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "126 Westminster Bridge Road",
+      "postalCode": "SE1 7UP",
+      "city": "London",
+      "countryCode": "UK",
+      "region": "London"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Jeffrey Li",
+        "url": "https://www.linkedin.com/in/jeffreybcli/"
       }
     ]
   },
@@ -47,14 +47,25 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "institution": "University College London, London, UK",
+      "location": "London, UK",
+      "url": "https://www.ucl.ac.uk/",
+      "area": "Robotics",
+      "studyType": "MSc",
+      "startDate": "2023-Oct",
+      "endDate": "2024-Oct",
+      "score": "First Class Honours",
+      "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "University College London, London, UK",
+      "location": "London, UK",
+      "url": "https://www.ucl.ac.uk/",
+      "area": "Computer Science",
+      "studyType": "BSc",
+      "startDate": "2020-Oct",
+      "endDate": "2023-Jul",
+      "score": "First Class Honours",
       "courses": ["Theory of Relativity"]
     }
   ],
@@ -151,12 +162,22 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Mandarin",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Cantonese",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Japanese",
       "fluency": "Fluent",
       "icon": ""
     }
