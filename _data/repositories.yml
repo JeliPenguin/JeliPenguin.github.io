@@ -3,3 +3,6 @@ github_users:
 
 github_repos:
   - JeliPenguin/Simple-Drone-Simulator
+  - JeliPenguin/Panda-Pick-And-Place 
+  - JeliPenguin/Lawn-mower-Kalman-filter
+  - JeliPenguin/SLAM-and-g2o

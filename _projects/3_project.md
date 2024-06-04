@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Model Match\: NHS and Data Scientist Collaboration Tool
+description: a web-based clinical data and classification models interchanging platform for data scientists and NHS clinicians in reducing amount of time wasted on data/model collection 
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: http://students.cs.ucl.ac.uk/2021/group15/
 importance: 3
 category: work
 ---
