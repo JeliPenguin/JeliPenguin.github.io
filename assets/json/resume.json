@@ -30,6 +30,14 @@
       "endDate": "2022-02-01",
       "summary": "Research on the coherence of traffic motion forecasting, serving as a fundamental component in the autonomous driving vehicles pipeline.",
       "highlights": ["Autonomous Driving"]
+    },
+    {
+      "name": "Vision and Imaging Science Group, UCL",
+      "position": "Research Internship",
+      "startDate": "2021-10-01",
+      "endDate": "2021-11-01",
+      "summary": "Research on the integration of Invariant Scattering Networks into Deep Reinforcement Learning for the purpose of achieving comparable agent performances with a reduction in required training samples.",
+      "highlights": ["Deep Reinforcement Learning"]
     }
   ],
   "volunteer": [
