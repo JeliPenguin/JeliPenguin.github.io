@@ -1,0 +1,189 @@
+{
+  "basics": {
+    "name": "Jeffrey Li",
+    "label": "Student",
+    "image": "",
+    "email": "jeffbenchu@gmail.com",
+    "phone": "(44) 7477-906003",
+    "url": "https://jelipenguin.github.io/",
+    "summary": "Just a Robotics Student",
+    "location": {
+      "address": "126 Westminster Bridge Road",
+      "postalCode": "SE1 7UP",
+      "city": "London",
+      "countryCode": "UK",
+      "region": "London"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Jeffrey Li",
+        "url": "https://www.linkedin.com/in/jeffreybcli/"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "University College London, London, UK",
+      "location": "London, UK",
+      "url": "https://www.ucl.ac.uk/",
+      "area": "Robotics",
+      "studyType": "Master of Science",
+      "startDate": "2023-10-01",
+      "endDate": "2024-10-01",
+      "score": "First Class Honours",
+      "courses": ["Computer Vision","Robotic Control Theory and Systems","Robotic Vision and Navigation","Robotic Sensing, Manipulation and Interaction","Multiagent Intelligence","Bayesian Deep Learning"]
+    },
+    {
+      "institution": "University College London, London, UK",
+      "location": "London, UK",
+      "url": "https://www.ucl.ac.uk/",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2020-10-01",
+      "endDate": "2023-07-01",
+      "score": "First Class Honours",
+      "courses": ["Robotic Systems","Machine Learning and Neural Computing","Machine Learning for Visual Computing","Intelligent Systems","Software Engineering","Algorithms","Logic and Database Theory","Computability and Complexity Theory","Compilers"]
+    }
+  ],
+  "work": [
+    {
+      "name": "UCL Centre for Artificial Intelligence",
+      "position": "Research Internship",
+      "startDate": "2021-12-01",
+      "endDate": "2022-02-01",
+      "summary": "Research on the coherence of traffic motion forecasting, serving as a fundamental component in the autonomous driving vehicles pipeline.",
+      "highlights": ["Autonomous Driving"]
+    },
+    {
+      "name": "Vision and Imaging Science Group, UCL",
+      "position": "Research Internship",
+      "startDate": "2021-10-01",
+      "endDate": "2021-11-01",
+      "summary": "Research on the integration of Invariant Scattering Networks into Deep Reinforcement Learning for the purpose of achieving comparable agent performances with a reduction in required training samples.",
+      "highlights": ["Deep Reinforcement Learning"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "IBM Data Science Professional Certificate",
+      "date": "2021-11-18",
+      "issuer": "IBM",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/KW2WFZJFG2M7",
+      "icon": "fa-solid fa-envelope"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Zur Elektrody/namik bewegter Körper",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-06-30",
+      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+    }
+  ],
+  "competitions": [
+    {
+      "title": "UCL Team Software Lead",
+      "date": "2023-10-01-2024-07-25",
+      "awarder": "UKSEDS Olympus Rover Trials Competition",
+      "url": "https://hub.ukseds.org/p/comps-olympus-rover-trials-23-24",
+      "summary": "Leading a team to design, construct, and operate a fully autonomous rover from scratch for a simulated Mars sample return mission, tackling complex systems engineering to meet real space mission requirements."
+    },
+    {
+      "title": "Team Lead, 1st Place Participant",
+      "date": "2019-07-01-2019-08-25",
+      "awarder": "Southampton University Robotics Competition",
+      "summary": "Engineered a carrier robot from the ground up with limited equipments and programmed it to autonomously execute a series of challenging path‑planning and navigation tasks."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Skilled",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "C++",
+        "MatLab,",
+        "Java",
+        "C",
+        "Haskell",
+        "SQL",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Robotics",
+      "level": "Skilled",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "ROS1",
+        "ROS2",
+        "Isaac Sim",
+        "MoveIt!",
+        "Gazebo",
+        "RViz"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "Skilled",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "React.js",
+        "React Native",
+        "MongoDB",
+        "PostgreSQL",
+        "Docker",
+        "HTML",
+        "CSS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Cantonese",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Beginner",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Embodied Artificial Intelligence",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Robotic Foundational Models",
+        "Language Guided Action Synthesis",
+        "Imitation Learning",
+        "Reinforcement Learning"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Daniel Spargo Mabbs Foundation",
+      "location": "Epsom, Surrey, England",
+      "position": "Student Ambassador",
+      "url": "https://www.dsmfoundation.org.uk/",
+      "startDate": "2018-04-15",
+      "endDate": "2019-10-10",
+      "summary": "Collaborate with young people, parents, teachers, and professionals in schools, colleges, and community groups through our evidence-based, multi-component drug and alcohol program, designed according to best practices to achieve the most effective outcomes."
+    }
+  ]
+}
