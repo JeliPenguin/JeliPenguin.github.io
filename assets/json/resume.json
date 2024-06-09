@@ -22,24 +22,6 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "UCL Centre for Artificial Intelligence",
-      "position": "Research Internship",
-      "startDate": "2021-12-01",
-      "endDate": "2022-02-01",
-      "summary": "Research on the coherence of traffic motion forecasting, serving as a fundamental component in the autonomous driving vehicles pipeline.",
-      "highlights": ["Autonomous Driving"]
-    },
-    {
-      "name": "Vision and Imaging Science Group, UCL",
-      "position": "Research Internship",
-      "startDate": "2021-10-01",
-      "endDate": "2021-11-01",
-      "summary": "Research on the integration of Invariant Scattering Networks into Deep Reinforcement Learning for the purpose of achieving comparable agent performances with a reduction in required training samples.",
-      "highlights": ["Deep Reinforcement Learning"]
-    }
-  ],
   "education": [
     {
       "institution": "University College London, London, UK",
@@ -62,6 +44,24 @@
       "endDate": "2023-07-01",
       "score": "First Class Honours",
       "courses": ["Robotic Systems","Machine Learning and Neural Computing","Machine Learning for Visual Computing","Intelligent Systems","Software Engineering","Algorithms","Logic and Database Theory","Computability and Complexity Theory","Compilers"]
+    }
+  ],
+  "work": [
+    {
+      "name": "UCL Centre for Artificial Intelligence",
+      "position": "Research Internship",
+      "startDate": "2021-12-01",
+      "endDate": "2022-02-01",
+      "summary": "Research on the coherence of traffic motion forecasting, serving as a fundamental component in the autonomous driving vehicles pipeline.",
+      "highlights": ["Autonomous Driving"]
+    },
+    {
+      "name": "Vision and Imaging Science Group, UCL",
+      "position": "Research Internship",
+      "startDate": "2021-10-01",
+      "endDate": "2021-11-01",
+      "summary": "Research on the integration of Invariant Scattering Networks into Deep Reinforcement Learning for the purpose of achieving comparable agent performances with a reduction in required training samples.",
+      "highlights": ["Deep Reinforcement Learning"]
     }
   ],
   "certificates": [
