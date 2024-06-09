@@ -87,46 +87,11 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "IBM Data Science Professional Certificate",
+      "date": "2021-11-18",
+      "issuer": "IBM",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/KW2WFZJFG2M7",
       "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -154,16 +119,45 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Programming Languages",
+      "level": "Skilled",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "C++",
+        "MatLab,",
+        "Java",
+        "C",
+        "Haskell",
+        "SQL",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Robotics",
+      "level": "Skilled",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "ROS1",
+        "ROS2",
+        "Isaac Sim",
+        "MoveIt!",
+        "Gazebo",
+        "RViz"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "Skilled",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "React.js",
+        "React Native",
+        "MongoDB",
+        "PostgreSQL",
+        "Docker",
+        "HTML",
+        "CSS"
       ]
     }
   ],
@@ -185,21 +179,19 @@
     },
     {
       "language": "Japanese",
-      "fluency": "Fluent",
+      "fluency": "Beginner",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Embodied Artificial Intelligence",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Robotic Foundational Models",
+        "Language Guided Action Synthesis",
+        "Imitation Learning",
+        "Reinforcement Learning"
       ]
     }
   ],
