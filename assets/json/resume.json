@@ -150,21 +150,19 @@
     },
     {
       "language": "Japanese",
-      "fluency": "Fluent",
+      "fluency": "Beginner",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Embodied Artificial Intelligence",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Robotic Foundational Models",
+        "Language Guided Action Synthesis",
+        "Imitation Learning",
+        "Reinforcement Learning"
       ]
     }
   ],
