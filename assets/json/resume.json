@@ -30,14 +30,6 @@
       "endDate": "2022-02-01",
       "summary": "Research on the coherence of traffic motion forecasting, serving as a fundamental component in the autonomous driving vehicles pipeline.",
       "highlights": ["Autonomous Driving"]
-    },
-    {
-      "name": "Vision and Imaging Science Group, UCL",
-      "position": "Research Internship",
-      "startDate": "2021-10-01",
-      "endDate": "2021-11-01",
-      "summary": "Research on the integration of Invariant Scattering Networks into Deep Reinforcement Learning for the purpose of achieving comparable agent performances with a reduction in required training samples.",
-      "highlights": ["Deep Reinforcement Learning"]
     }
   ],
   "volunteer": [
@@ -87,11 +79,46 @@
   ],
   "certificates": [
     {
-      "name": "IBM Data Science Professional Certificate",
-      "date": "2021-11-18",
-      "issuer": "IBM",
-      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/KW2WFZJFG2M7",
+      "name": "Machine Learning",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Quantum Computing",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Quantum Information",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
       "icon": "fa-solid fa-envelope"
+    },
+    {
+      "name": "Quantum Cryptography",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Quantum Communication",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "Quantum Teleportation",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -119,45 +146,16 @@
   ],
   "skills": [
     {
-      "name": "Programming Languages",
-      "level": "Skilled",
+      "name": "Physics",
+      "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Python",
-        "C++",
-        "MatLab,",
-        "Java",
-        "C",
-        "Haskell",
-        "SQL",
-        "JavaScript"
-      ]
-    },
-    {
-      "name": "Robotics",
-      "level": "Skilled",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "ROS1",
-        "ROS2",
-        "Isaac Sim",
-        "MoveIt!",
-        "Gazebo",
-        "RViz"
-      ]
-    },
-    {
-      "name": "Software Development",
-      "level": "Skilled",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "React.js",
-        "React Native",
-        "MongoDB",
-        "PostgreSQL",
-        "Docker",
-        "HTML",
-        "CSS"
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
       ]
     }
   ],
@@ -179,19 +177,21 @@
     },
     {
       "language": "Japanese",
-      "fluency": "Beginner",
+      "fluency": "Fluent",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Embodied Artificial Intelligence",
+      "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Robotic Foundational Models",
-        "Language Guided Action Synthesis",
-        "Imitation Learning",
-        "Reinforcement Learning"
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
       ]
     }
   ],
