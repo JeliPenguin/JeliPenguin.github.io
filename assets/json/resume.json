@@ -130,6 +130,33 @@
         "C",
         "JavaScript"
       ]
+    },
+    {
+      "name": "Robotics",
+      "level": "Skilled",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "ROS1",
+        "ROS2",
+        "Isaac Sim",
+        "MoveIt!",
+        "Gazebo",
+        "RViz"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "Skilled",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "React.js",
+        "React Native",
+        "MongoDB",
+        "PostgreSQL",
+        "Docker",
+        "HTML",
+        "CSS"
+      ]
     }
   ],
   "languages": [
