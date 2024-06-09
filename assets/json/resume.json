@@ -40,18 +40,6 @@
       "highlights": ["Deep Reinforcement Learning"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
       "institution": "University College London, London, UK",
@@ -128,6 +116,7 @@
         "MatLab",
         "Java",
         "C",
+        "SQL",
         "JavaScript"
       ]
     },
@@ -215,6 +204,17 @@
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Daniel Spargo Mabbs Foundation",
+      "location": "Epsom, Surrey, England",
+      "position": "Student Ambassador",
+      "url": "https://www.dsmfoundation.org.uk/",
+      "startDate": "2018-04-15",
+      "endDate": "2019-10-10",
+      "summary": "Collaborate with young people, parents, teachers, and professionals in schools, colleges, and community groups through our evidence-based, multi-component drug and alcohol program, designed according to best practices to achieve the most effective outcomes."
     }
   ]
 }
