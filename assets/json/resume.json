@@ -156,13 +156,15 @@
   ],
   "interests": [
     {
-      "name": "Embodied Artificial Intelligence",
+      "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Robotic Foundational Models",
-        "Language Guided Action Synthesis",
-        "Imitation Learning",
-        "Reinforcement Learning"
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
       ]
     }
   ],
