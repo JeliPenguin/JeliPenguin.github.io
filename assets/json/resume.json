@@ -119,16 +119,18 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Programming Languages",
+      "level": "Skilled",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "C++",
+        "MatLab,",
+        "Java",
+        "C",
+        "Haskell",
+        "SQL",
+        "JavaScript"
       ]
     }
   ],
